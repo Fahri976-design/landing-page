@@ -1,0 +1,6 @@
+- [ ] Fix dashboard/page.tsx: Replace all <img> tags with <Image> from next/image
+- [ ] Fix login-from.tsx: Remove unused Card imports and fix unescaped apostrophe
+- [ ] Fix login-handler.tsx: Remove unused variables setEmail, setPassword, handleSubmit
+- [ ] Fix input.tsx: Address empty interface warning
+- [ ] Fix sidebar.tsx: Remove unused imports SheetTrigger, TooltipProvider
+- [ ] Run build to verify fixes
